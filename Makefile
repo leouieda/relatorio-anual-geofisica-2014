@@ -12,5 +12,5 @@ $(IPYNB).pdf: $(IPYNB).ipynb
 
 clean:
 	rm -rf $(IPYNB).idx $(IPYNB).md $(IPYNB).aux $(IPYNB).out $(IPYNB)_files \
-		$(IPYNB).log $(IPYNB).tex $(IPYNB).pdf
+		$(IPYNB).log $(IPYNB).tex
 
