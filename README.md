@@ -1,6 +1,16 @@
 # Yearly PhD progress report for 2014
 
+The progress report tells the tale of what I did in the period between March
+2013 and March 2014.
 
+As an experiment, I wrote this report in an IPython notebook
+(`phd-report-2014.ipynb).
+Here is a [rendered version of this
+notebook](http://nbviewer.ipython.org/github/pinga-lab/phd-yearly-report-2014/blob/master/phd-report-2014.ipynb).
+There is an image missing from the notebook (in the "Forward modeling"
+section).
+The PDF version of this report contains all the images so I recommend you view
+that instead.
 
 ## License
 
